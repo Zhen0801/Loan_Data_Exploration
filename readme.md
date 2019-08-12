@@ -1,7 +1,9 @@
 # Exploration of Prosper Loan Data
+This project is divided into two major parts : **Exploratory** and **Explanatory analysis**.
+
+First explore the Prosper Loan Data by using Python visualization libraries, starting from univariate relationships to multivariate relationships between key variables. Then convey the findings by producing a short presentation through a slide deck that leverages polished, explanatory visualizations.
+
 ## By Zhen
-
-
 ## Date created
 - README file: Aug-08-2019
 
